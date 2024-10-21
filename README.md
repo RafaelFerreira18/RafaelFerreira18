@@ -32,8 +32,8 @@ Atualmente, estou aprimorando minhas habilidades em:
 
 ## 📫 Como me encontrar:
 
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/RafaelFerreira18/)
-- Email: [Seu email](rafabf18@gmail.com)
+- LinkedIn: [Meu linkedin](https://www.linkedin.com/in/RafaelFerreira18/)
+- Email: [Meu email](rafabf18@gmail.com)
 
 ---
 
