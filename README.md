@@ -5,9 +5,11 @@ Sou um desenvolvedor fullstack apaixonado por tecnologia e inovação. Com exper
 ## 🚀 Tecnologias que utilizo:
 
 - **Linguagens e Frameworks:**
-  - Java | Spring Boot | Python
-  - Angular (Frontend)
-  - PostgreSQL (Banco de Dados)
+   - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  - ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 💼 Projetos
 
