@@ -27,8 +27,8 @@ Aqui no meu GitHub, você vai encontrar alguns dos meus projetos, que envolvem d
 
 Atualmente, estou aprimorando minhas habilidades em:
 
-- Docker e Kubernetes para automação de deploy
-- Otimização de desempenho de APIs e bancos de dados
+- Docker para automação de deploy e containerização
+- Otimização de desempenho de APIs e bancos de dados e Spring security
 
 ## 📫 Como me encontrar:
 
